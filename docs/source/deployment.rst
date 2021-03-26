@@ -107,11 +107,6 @@ each supported cloud provider.
        also use downloaded images from upstream and register them. Note the ``__os_distro``
        property that you need to set on OTC.
 
-     * The otc-physical environment is for an SCS/OSISM testbed deployment, which would be a really
-       nice test environment. We don't have it working yet, unfortunately, so this is work in
-       progress.
-
-
 .. note::
 
    If the name of the cloud provider in ``clouds.yaml`` differs from the intended default, e.g.

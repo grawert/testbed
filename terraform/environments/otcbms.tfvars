@@ -1,4 +1,3 @@
-# This is for deployment on OTC BMS, not yet working
 # override:neutron_router_enable_snat
 availability_zone         = "eu-de-02"
 volume_availability_zone  = "eu-de-02"
